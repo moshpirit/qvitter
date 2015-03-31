@@ -112,11 +112,11 @@
 	"xStartedFollowingYou": "te ha seguido",
 	"followsYou": "te sigue",
 	"FAQ": "Preguntas Frecuentes",
-	"inviteAFriend": "¡Invita a tus amistades!",
+	"inviteAFriend": "¡Invita a tus amigos!",
 	"goToExternalProfile": "Ir al perfil completo",
 	"cropAndSave": "Recortar y guardar",
 	"showTerms": "Leer los términos de uso",
 	"ellipsisMore": "Más",
-	"blockUser": "Bloquear {username}",
+	"blockUser": "Bloquear a {username}",
 	"goToOriginalNotice": "Ir al queet original"
 }
